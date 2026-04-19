@@ -1,20 +1,19 @@
 <div align="center">
 
-  <!-- 🎮 SERIES ICON (PALING ATAS) -->
-  <img src="https://i.imgur.com/WEaUNph.png" height="90" />
-  <img src="https://i.imgur.com/ZBXkpCR.png" height="90" />
-  <img src="https://i.imgur.com/ZaHwbgl.png" height="90" />
-  <img src="https://i.imgur.com/Nk7Juty.png" height="90" />
+  <!-- 🎮 SERIES (DALAM FRAME) -->
+  <kbd>
+    <img src="https://i.imgur.com/WEaUNph.png" height="70" />
+    <img src="https://i.imgur.com/ZBXkpCR.png" height="70" />
+    <img src="https://i.imgur.com/ZaHwbgl.png" height="70" />
+    <img src="https://i.imgur.com/Nk7Juty.png" height="70" />
+  </kbd>
 
   <br><br>
 
-  <!-- 🔥 TYPE-MOON -->
-  <img src="https://i.imgur.com/uQZzJHK.png" height="170" />
-
-  <br>
-
-  <!-- 👤 NASU -->
-  <img src="https://i.imgur.com/cVspowC.png" height="130" />
+  <!-- 🔥 TYPE-MOON + NASU (SEBELAHAN) -->
+  <img src="https://i.imgur.com/uQZzJHK.png" height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/cVspowC.png" height="150" />
 
   <br><br>
 
