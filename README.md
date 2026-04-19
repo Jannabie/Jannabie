@@ -37,10 +37,4 @@
 &nbsp;&nbsp;
 <img src="https://i.imgur.com/QuE3hY1.png" height="44">
 
-<br><br>
 
-*"A faithful translation does not chase comfort — it preserves the weight of every term, exactly as it was meant to be."*
-
-<br>
-
-</div>
