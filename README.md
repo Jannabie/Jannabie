@@ -23,7 +23,7 @@
 <img src="https://i.imgur.com/q1BPeWo.png" height="80">
 
 <img src="https://i.imgur.com/bRoMIPf.png" height="70">
-<img src="https://i.imgur.com/dVXtZe2.png" height="70">
+<img src="https://i.imgur.com/dVXtZe2.png" height="50">
 
 </td>
 </tr>
