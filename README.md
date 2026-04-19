@@ -4,8 +4,8 @@
   <img src="https://i.imgur.com/ZaHwbgl.png" alt="Mahoyo" height="56" />
   <img src="https://i.imgur.com/Nk7Juty.png" alt="Melty Blood" height="56" />
 </p><p align="center">
-  <img src="https://i.imgur.com/uQZzJHK.png" alt="TYPE-MOON" height="56" />
-  <img src="https://i.imgur.com/cVspowC.png" alt="Kinoko Nasu" height="56" />
+  <img src="https://i.imgur.com/uQZzJHK.png" alt="TYPE-MOON" height="80" />
+  <img src="https://i.imgur.com/cVspowC.png" alt="Kinoko Nasu" height="80" />
 </p><p align="center">
   TYPE-MOON • VN Translation • Script Reverse
 </p><p align="center">
