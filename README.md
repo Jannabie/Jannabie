@@ -1,6 +1,6 @@
 <div align="center">
 
-<table border="1" cellspacing="0" cellpadding="8">
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td align="center">
 <img src="https://i.imgur.com/WEaUNph.png" height="65">
@@ -13,7 +13,7 @@
 
 <br>
 
-<table border="1" cellspacing="0" cellpadding="10">
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td align="center">
 <img src="https://i.imgur.com/uQZzJHK.png" height="70">
@@ -40,15 +40,9 @@
 
 <br>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td style="padding:0; margin:0;">
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,100:38bdf8&section=footer" 
-width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,100:38bdf8&section=footer"
+width="100%"
 style="display:block;">
-</td>
-</tr>
-</table>
 
 </div>
