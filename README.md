@@ -28,23 +28,23 @@
 
 <div align="center">
 
-<h3 style="margin-bottom:6px; color:#cdd6f4; letter-spacing:1px;">
-Clock Tower Council
-</h3>
+<div align="center">
 
-<div style="margin-bottom:8px;">
-<span style="color:#89b4fa;">✦</span>
-<span style="color:#cdd6f4; font-size:12px;">Moonlit Translation</span>
-<span style="color:#89b4fa;">✦</span>
-<span style="color:#cdd6f4; font-size:12px;">AVN Indonesia</span>
-<span style="color:#89b4fa;">✦</span>
+<h2 style="margin-bottom:6px; color:#cdd6f4; letter-spacing:2px;">
+✦ Clock Tower Council ✦
+</h2>
+
+<div style="margin-bottom:10px; color:#a6adc8; font-size:13px;">
+✦ Moonlit Translation & AVN Indonesia ✦
 </div>
 
 <p style="margin:0;">
-<a href="https://github.com/Moonlit-Translation" style="color:#a6adc8; text-decoration:none;">
-<code>▶ Moonlit worlds, endless routes.</code>
+<a href="https://github.com/Moonlit-Translation" style="color:#89b4fa; text-decoration:none; font-weight:500;">
+▶ Moonlit worlds, endless routes.
 </a>
 </p>
+
+</div>
 
 </div>
 
