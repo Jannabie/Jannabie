@@ -40,10 +40,11 @@
 
 <br>
 
-<br>
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a0f1c,100:312e81&section=footer"
+width="100%"
+style="display:block;">
 
-<div align="center">
-<img src="https://i.imgur.com/8QZfX9X.png" width="170">
-</div>
+<br>
 
 </div>
