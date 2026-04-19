@@ -56,10 +56,7 @@ Clock Tower Council
 
 <!-- FOOTER BANNER -->
 <div align="center">
-<img 
-src="https://i.imgur.com/PLpnsuw.png"
-width="20%"
-style="display:block;">
+<img src="https://i.imgur.com/PLpnsuw.png" height="55">
 </div>
 
 <br>
