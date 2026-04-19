@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/WEaUNph.png" height="70">
 <img src="https://i.imgur.com/ZBXkpCR.png" height="70">
 <img src="https://i.imgur.com/ZaHwbgl.png" height="70">
-<img src="https://i.imgur.com/Nk7Juty.png" height="70">
+<img src="https://i.imgur.com/Nk7Juty.png" height="60">
 </td>
 </tr>
 </table>
