@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/ZaHwbgl.png" alt="Mahoyo" height="60" />
   <img src="https://i.imgur.com/Nk7Juty.png" alt="Melty Blood" height="60" />
 </p><p align="center">
-  <img src="https://typemoon.fandom.com/wiki/Kinoko_Nasu?file=Kinoko_Nasu.png" alt="Kinoko Nasu" width="80" />
+  <img src="https://en.wikipedia.org/wiki/Type-Moon#/media/File%3AType-moon.svg" alt="Kinoko Nasu" width="80" />
 </p><h2 align="center">TYPE-MOON</h2><p align="center">
   Nasuverse • VN Translation • Script Reverse
 </p><p align="center">
