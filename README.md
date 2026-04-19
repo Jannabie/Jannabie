@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🎮 SERIES (DALAM FRAME) -->
+  <!-- 🎮 SERIES -->
   <kbd>
     <img src="https://i.imgur.com/WEaUNph.png" height="70" />
     <img src="https://i.imgur.com/ZBXkpCR.png" height="70" />
@@ -10,18 +10,21 @@
 
   <br><br>
 
-  <!-- 🔥 TYPE-MOON + NASU (SEBELAHAN) -->
-  <img src="https://i.imgur.com/uQZzJHK.png" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/cVspowC.png" height="150" />
+  <!-- 🏢 MAIN WORKING FOR -->
+  <kbd>
+    <br>
+    <b>Main Working For</b>
+    <br><br>
+    <img src="https://i.imgur.com/uQZzJHK.png" height="140" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://i.imgur.com/cVspowC.png" height="140" />
+    <br>
+  </kbd>
 
   <br><br>
 
   <!-- ✨ TITLE -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&lines=Clock+Tower+Council+%E2%80%A2+Moonlit+Translation+%E2%80%A2+AVN+Indonesia;Moonlit+worlds%2C+endless+routes.;Technical+localization+for+Japanese+visual+novels" />
-
-  <br><br>
-
+  <h2><code>Clock Tower Council • Moonlit Translation • AVN Indonesia</code></h2>
   <kbd>Moonlit worlds, endless routes.</kbd>
 
 </div>
@@ -60,6 +63,7 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
+  <br>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -67,6 +71,7 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/TJS-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 
+  <br>
 
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
