@@ -1,34 +1,17 @@
 <div align="center">
 
-  <!-- 🎬 HERO GIF -->
-  <img src="https://media1.tenor.com/m/bFARw-2xis4AAAAC/mahoyo-fate-series.gif" width="800" />
+  <!-- 🔥 LOGO BESAR -->
+  <img src="https://i.imgur.com/uQZzJHK.png" height="160" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/cVspowC.png" height="160" />
 
-  <!-- 🔻 LOGO NYATU (OVERLAP) -->
-  <div style="margin-top:-50px;">
-    <img src="https://i.imgur.com/uQZzJHK.png" height="90" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://i.imgur.com/cVspowC.png" height="90" />
-  </div>
+  <br><br>
 
-  <br>
-
-  <!-- SERIES -->
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/WEaUNph.png" height="75" />
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/ZBXkpCR.png" height="75" />
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/ZaHwbgl.png" height="75" />
-      </td>
-      <td align="center">
-        <img src="https://i.imgur.com/Nk7Juty.png" height="75" />
-      </td>
-    </tr>
-  </table>
+  <!-- 🎮 SERIES ICON -->
+  <img src="https://i.imgur.com/WEaUNph.png" height="90" />
+  <img src="https://i.imgur.com/ZBXkpCR.png" height="90" />
+  <img src="https://i.imgur.com/ZaHwbgl.png" height="90" />
+  <img src="https://i.imgur.com/Nk7Juty.png" height="90" />
 
   <br><br>
 
@@ -67,7 +50,7 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 
   <br><br>
 
-  <!-- LANGUAGES -->
+  <!-- TECH STACK -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -77,7 +60,6 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 
   <br>
 
-  <!-- WEB / SCRIPT -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -86,14 +68,12 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 
   <br>
 
-  <!-- LOW LEVEL -->
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
   <br>
 
-  <!-- TOOLS -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 
