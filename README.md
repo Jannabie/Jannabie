@@ -47,8 +47,8 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 
 ## ✦ Focus Area
 * **Engine Analysis** — Reverse-engineering archive formats (`.pak`, `.hfa`, `.mrg`) and bytecode structures  
-* **Script Injection** — Encoding handling (Shift-JIS), pointer tables, and binary-safe text insertion  
-* **Pipeline Development** — Automation tools and UI systems for scalable localization workflows  
+* **Script Extraction & Injection** — Handling Shift-JIS encoding, pointer tables, and binary-safe text insertion  
+* **Translation Pipeline** — Building automation tools and UI systems for scalable localization workflows  
 
 <br>
 
