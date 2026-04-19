@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- 🎮 SERIES (KOTAK, LEBIH RAPI) -->
 <table border="1" cellspacing="0" cellpadding="8">
 <tr>
 <td align="center">
@@ -14,7 +13,6 @@
 
 <br>
 
-<!-- 🏢 LOGO (KOTAK KEDUA) -->
 <table border="1" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center">
@@ -28,14 +26,12 @@
 
 <br>
 
-<!-- ✨ TITLE (DITEGASKAN) -->
-<h2>
-<code>Clock Tower Council • Moonlit Translation • AVN Indonesia</code>
-</h2>
+<h4>
+<kbd>Clock Tower Council</kbd> • <kbd>Moonlit Translation</kbd> • <kbd>AVN Indonesia</kbd>
+</h4>
 
 <p>
-<code>▶ Moonlit worlds, endless routes.</code>
+<a href="https://github.com/Moonlit-Translation"><code>▶ Moonlit worlds, endless routes.</code></a>
 </p>
 
 </div>
-
