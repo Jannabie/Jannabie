@@ -40,13 +40,10 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td>
-<img src="https://media1.tenor.com/m/CxSCiSyjAMQAAAAC/mahoyo-witch-on-the-holy-night.gif" height="220">
-</td>
-<td>
-<img src="[https://media1.tenor.com/m/y_UX7PdCLIkAAAAC/neco-arc-tsukihime.gif](https://media1.tenor.com/m/y_UX7PdCLIkAAAAC/neco-arc-tsukihime.gif)" height="220">
+<img src="https://media1.tenor.com/m/CxSCiSyjAMQAAAAC/mahoyo-witch-on-the-holy-night.gif" width="100%">
 </td>
 </tr>
 </table>
