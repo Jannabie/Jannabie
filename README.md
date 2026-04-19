@@ -1,32 +1,32 @@
 <div align="center">
-  <img src="https://i.imgur.com/WEaUNph.png" alt="Tsukihime" height="45" /> &nbsp;&nbsp;
-  <img src="https://i.imgur.com/ZBXkpCR.png" alt="Fate" height="45" /> &nbsp;&nbsp;
-  <img src="https://i.imgur.com/ZaHwbgl.png" alt="Mahoyo" height="45" /> &nbsp;&nbsp;
-  <img src="https://i.imgur.com/Nk7Juty.png" alt="Melty Blood" height="45" />
+  <img src="https://i.imgur.com/WEaUNph.png" alt="Tsukihime" height="65" /> &nbsp;&nbsp;
+  <img src="https://i.imgur.com/ZBXkpCR.png" alt="Fate" height="65" /> &nbsp;&nbsp;
+  <img src="https://i.imgur.com/ZaHwbgl.png" alt="Mahoyo" height="65" /> &nbsp;&nbsp;
+  <img src="https://i.imgur.com/Nk7Juty.png" alt="Melty Blood" height="65" />
   
   <br><br>
   
-  <img src="https://i.imgur.com/uQZzJHK.png" alt="TYPE-MOON" height="60" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/cVspowC.png" alt="Kinoko Nasu" height="60" />
+  <img src="https://i.imgur.com/uQZzJHK.png" alt="TYPE-MOON" height="85" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/cVspowC.png" alt="Kinoko Nasu" height="85" />
 
   <br><br>
 
-  <h3>Clock Tower Council • Moonlit Translation • AVN Indonesia</h3>
+  <h2><code>Clock Tower Council • Moonlit Translation • AVN Indonesia</code></h2>
   <i>Moonlit worlds, endless routes.</i>
 </div>
 
 <br>
 
 ## ✦ About
-Working around TYPE-MOON visual novels — translating, extracting, and understanding their script systems.
+Freelance Game Engineer specializing in the technical localization of Japanese visual novels. While I have a deep appreciation for TYPE-MOON works, my playground extends across a wide variety of proprietary architectures—from HuneX and Kirikiri to Artemis and CatSystem2. 
 
 ## ✦ Focus Area
-* **Engine Analysis:** Reverse-engineering proprietary formats and bytecode (HuneX, Kirikiri, Artemis, etc.).
-* **Script Extraction:** Decrypting archives, handling custom encodings (Shift-JIS), and managing pointer tables.
-* **Translation Pipeline:** Building automated tools for seamless text injection and UI/UX localization formatting.
+* **Engine Analysis:** Reverse-engineering binary structures, archive formats (e.g., `.pak`, `.hfa`, `.mrg`), and undocumented bytecode.
+* **Script Extraction & Injection:** Handling custom encodings (Shift-JIS), managing offset/pointer tables, and ensuring byte-alignment for stable in-game rendering.
+* **Translation Pipeline:** Building automated tools and UI/UX dashboards to streamline the localization process for translators and modding communities.
 
-## ✦ Status
-> **TYPE-MOON mode:** `ON` 🟢
+## ✦ Current Status
+> ⚙️ **System:** Compiling scripts and resolving pointer offsets...
 
 <br>
 
