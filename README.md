@@ -20,6 +20,7 @@
 <td align="center">
 <img src="https://i.imgur.com/uQZzJHK.png" height="70">
 <img src="https://i.imgur.com/cVspowC.png" height="70">
+<img src="https://i.imgur.com/eEUzDPP.png" height="70">
 </td>
 </tr>
 </table>
