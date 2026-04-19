@@ -13,10 +13,21 @@
   <!-- 🏢 MAIN WORKING FOR -->
   <kbd>
     <br>
+    <b>Main Working For</b>
     <br><br>
-    <img src="[https://i.imgur.com/uQZzJHK.png](https://static.wikia.nocookie.net/umineko/images/e/e6/Site-logo.png/revision/latest?cb=20230704113852)" height="140" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="[[https://i.imgur.com/cVspowC.png](https://cdn2.steamgriddb.com/logo_thumb/e57174548ea87569040afe197a881803.png)](https://cdn2.steamgriddb.com/logo_thumb/e57174548ea87569040afe197a881803.png)" height="140" />
+
+    <img src="https://i.imgur.com/uQZzJHK.png" height="110" />
+    &nbsp;&nbsp;
+    <img src="https://i.imgur.com/cVspowC.png" height="110" />
+    &nbsp;&nbsp;
+    <img src="https://i.imgur.com/q1BPeWo.png" height="110" />
+
+    <br><br>
+
+    <img src="https://i.imgur.com/bRoMIPf.png" height="110" />
+    &nbsp;&nbsp;
+    <img src="https://i.imgur.com/dVXtZe2.png" height="110" />
+
     <br>
   </kbd>
 
@@ -62,16 +73,21 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
+  <br>
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/TJS-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 
+  <br>
 
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+  <br>
 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
