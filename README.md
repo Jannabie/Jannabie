@@ -1,5 +1,9 @@
 <div align="center">
 
+*"A faithful translation does not chase comfort — it preserves the weight of every term, exactly as it was meant to be."*
+
+<br>
+
 <!-- HEADER ICONS -->
 <table cellspacing="0" cellpadding="0">
 <tr>
@@ -27,8 +31,7 @@
 </tr>
 </table>
 
-
-
+<br>
 
 <!-- POWERED & HELPER -->
 #### Powered & Helper
@@ -37,4 +40,6 @@
 &nbsp;&nbsp;
 <img src="https://i.imgur.com/QuE3hY1.png" height="44">
 
+<br>
 
+</div>
