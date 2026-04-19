@@ -29,20 +29,6 @@
 
 <br>
 
-<!-- ORGANIZATION -->
-<div align="center">
-<div style="margin-bottom:6px;">
-<span style="color:#cdd6f4; font-size:22px; letter-spacing:3px;">
-Clock Tower Council
-</span>
-</div>
-<div style="color:#89b4fa; margin-bottom:10px; font-size:12px; letter-spacing:2px;">
-✦ Moonlit Translation ✦ AVN Indonesia ✦
-</div>
-<div style="width:120px; height:1px; background:#89b4fa; margin:0 auto 10px;"></div>
-<p style="margin:0;">
-</p>
-</div>
 
 <!-- POWERED & HELPER -->
 #### Powered & Helper
