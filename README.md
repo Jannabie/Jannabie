@@ -38,7 +38,7 @@
 
 <img src="https://i.imgur.com/PLpnsuw.png" height="35">
 &nbsp;&nbsp;
-<img src="https://i.imgur.com/QuE3hY1.png" height="44">
+<img src="https://i.imgur.com/QuE3hY1.png" height="45">
 
 <br>
 
