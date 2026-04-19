@@ -18,7 +18,8 @@
 <table border="1" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center">
-<img src="https://i.imgur.com/uQZzJHK.png" height="80">
+<img src="https://i.imgur.com/uQZzJHK.png" height="70">
+<img src="https://i.imgur.com/cVspowC.png" height="70">
 </td>
 </tr>
 </table>
