@@ -24,7 +24,7 @@
 
 <img src="https://i.imgur.com/bRoMIPf.png" height="70">
 <img src="https://i.imgur.com/dVXtZe2.png" height="50">
-<img src="[https://i.imgur.com/dVXtZe2.png](https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/keromakura.png)" height="50">
+<img src="https://i.imgur.com/5evukP4.png" height="50">
 
 </td>
 </tr>
