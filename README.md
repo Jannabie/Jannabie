@@ -41,12 +41,8 @@ Clock Tower Council
 </div>
 <div style="width:120px; height:1px; background:#89b4fa; margin:0 auto 10px;"></div>
 <p style="margin:0;">
-
-</a>
 </p>
 </div>
-
-
 
 <!-- POWERED & HELPER -->
 #### Powered & Helper
@@ -54,6 +50,10 @@ Clock Tower Council
 <img src="https://i.imgur.com/PLpnsuw.png" height="35">
 &nbsp;&nbsp;
 <img src="https://i.imgur.com/QuE3hY1.png" height="44">
+
+<br><br>
+
+*"A faithful translation does not chase comfort — it preserves the weight of every term, exactly as it was meant to be."*
 
 <br>
 
