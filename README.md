@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://i.imgur.com/WEaUNph.png" alt="Tsukihime" height="60" />
-  <img src="https://i.imgur.com/ZBXkpCR.png" alt="Fate" height="60" />
-  <img src="https://i.imgur.com/ZaHwbgl.png" alt="Mahoyo" height="60" />
-  <img src="https://i.imgur.com/Nk7Juty.png" alt="Melty Blood" height="60" />
+  <img src="https://i.imgur.com/uQZzJHK.png" alt="TYPE-MOON" width="220" />
 </p><p align="center">
-  <img src="https://typemoon.fandom.com/wiki/Kinoko_Nasu?file=Kinoko_Nasu.png" alt="Kinoko Nasu" width="80" />
-</p><h2 align="center">TYPE-MOON</h2><p align="center">
-  Nasuverse • VN Translation • Script Reverse
+  <img src="https://i.imgur.com/WEaUNph.png" alt="Tsukihime" height="56" />
+  <img src="https://i.imgur.com/ZBXkpCR.png" alt="Fate" height="56" />
+  <img src="https://i.imgur.com/ZaHwbgl.png" alt="Mahoyo" height="56" />
+  <img src="https://i.imgur.com/Nk7Juty.png" alt="Melty Blood" height="56" />
 </p><p align="center">
-  <i>"Stories written under the moon."</i>
+  <img src="https://i.imgur.com/cVspowC.png" alt="Kinoko Nasu" width="96" />
+</p><p align="center">
+  TYPE-MOON • VN Translation • Script Reverse
+</p><p align="center">
+  <i>Moonlit worlds, endless routes.</i>
 </p>
 ---
 
