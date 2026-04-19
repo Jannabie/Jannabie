@@ -4,10 +4,10 @@
 <table border="1" cellspacing="0" cellpadding="8">
 <tr>
 <td align="center">
-<img src="https://i.imgur.com/WEaUNph.png" height="60">
-<img src="https://i.imgur.com/ZBXkpCR.png" height="60">
-<img src="https://i.imgur.com/ZaHwbgl.png" height="60">
-<img src="https://i.imgur.com/Nk7Juty.png" height="60">
+<img src="https://i.imgur.com/WEaUNph.png" height="70">
+<img src="https://i.imgur.com/ZBXkpCR.png" height="70">
+<img src="https://i.imgur.com/ZaHwbgl.png" height="70">
+<img src="https://i.imgur.com/Nk7Juty.png" height="70">
 </td>
 </tr>
 </table>
