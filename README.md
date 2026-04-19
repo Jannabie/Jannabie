@@ -28,7 +28,7 @@
 
 <h4>
 <span style="background:#1e1e2e; color:#cdd6f4; padding:4px 10px; border-radius:6px;">
-<i>Clock Tower Council • Moonlit Translation • AVN Indonesia</i>
+<i>Clock Tower Council • Moonlight Translation • AVN Indonesia</i>
 </span>
 </h4>
 
@@ -40,10 +40,13 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
-<img src="https://media1.tenor.com/m/CxSCiSyjAMQAAAAC/mahoyo-witch-on-the-holy-night.gif" width="100%">
+<td style="padding:0; margin:0;">
+<img 
+src="https://media1.tenor.com/m/CxSCiSyjAMQAAAAC/mahoyo-witch-on-the-holy-night.gif" 
+width="100%" 
+style="display:block;">
 </td>
 </tr>
 </table>
