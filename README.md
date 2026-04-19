@@ -41,13 +41,12 @@ Clock Tower Council
 </div>
 <div style="width:120px; height:1px; background:#89b4fa; margin:0 auto 10px;"></div>
 <p style="margin:0;">
-<a href="https://github.com/Moonlit-Translation" style="color:#a6adc8; text-decoration:none; font-weight:500; letter-spacing:1px;">
-▶ Moonlit worlds, endless routes.
+
 </a>
 </p>
 </div>
 
-<br>
+
 
 <!-- POWERED & HELPER -->
 #### Powered & Helper
