@@ -51,10 +51,11 @@ Clock Tower Council
 <br>
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0a0f1c,100:312e81&section=footer"
-width="100%"
+src="https://i.imgur.com/PLpnsuw.png"
+width="20%"
 style="display:block;">
 
 <br>
+
 
 </div>
