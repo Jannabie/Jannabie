@@ -1,38 +1,38 @@
 <div align="center">
 
-  <!-- 🎬 HERO BANNER -->
+  <!-- 🎬 HERO GIF -->
   <img src="https://media1.tenor.com/m/bFARw-2xis4AAAAC/mahoyo-fate-series.gif" width="800" />
 
-  <br><br>
+  <!-- 🔻 LOGO NYATU (OVERLAP) -->
+  <div style="margin-top:-50px;">
+    <img src="https://i.imgur.com/uQZzJHK.png" height="90" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://i.imgur.com/cVspowC.png" height="90" />
+  </div>
+
+  <br>
 
   <!-- SERIES -->
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://i.imgur.com/WEaUNph.png" height="85" />
+        <img src="https://i.imgur.com/WEaUNph.png" height="75" />
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/ZBXkpCR.png" height="85" />
+        <img src="https://i.imgur.com/ZBXkpCR.png" height="75" />
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/ZaHwbgl.png" height="85" />
+        <img src="https://i.imgur.com/ZaHwbgl.png" height="75" />
       </td>
       <td align="center">
-        <img src="https://i.imgur.com/Nk7Juty.png" height="85" />
+        <img src="https://i.imgur.com/Nk7Juty.png" height="75" />
       </td>
     </tr>
   </table>
 
-  <br>
-
-  <!-- TYPE-MOON -->
-  <img src="https://i.imgur.com/uQZzJHK.png" height="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/cVspowC.png" height="120" />
-
   <br><br>
 
-  <!-- TITLE -->
+  <!-- ✨ TITLE -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&lines=Clock+Tower+Council+%E2%80%A2+Moonlit+Translation+%E2%80%A2+AVN+Indonesia;Moonlit+worlds%2C+endless+routes.;Technical+localization+for+Japanese+visual+novels" />
 
   <br><br>
@@ -86,7 +86,7 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 
   <br>
 
-  <!-- LOW LEVEL / TOOLS -->
+  <!-- LOW LEVEL -->
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
