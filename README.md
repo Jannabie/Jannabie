@@ -22,7 +22,7 @@
 <img src="https://i.imgur.com/cVspowC.png" height="70">
 <img src="https://i.imgur.com/eEUzDPP.png" height="70">
 <img src="https://media.tenor.com/qyLKfZ6Sa5UAAAAi/neco-arc-fate.gif" height="75">
-<img src="https://i.imgur.com/hKgwO0n.png" height="75">
+<img src="https://i.imgur.com/TLOukgX.png" height="75">
 </td>
 </tr>
 </table>
