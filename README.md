@@ -50,17 +50,11 @@ Clock Tower Council
 <br>
 
 <!-- POWERED & HELPER -->
-<table cellspacing="0" cellpadding="12" border="0">
-<tr>
-<td align="center" bgcolor="#0a1628">
-<sub><b>&nbsp;Powered &amp; Helper:</b></sub>
-<br><br>
+#### Powered & Helper
+
 <img src="https://i.imgur.com/PLpnsuw.png" height="35">
 &nbsp;&nbsp;
 <img src="https://i.imgur.com/QuE3hY1.png" height="44">
-</td>
-</tr>
-</table>
 
 <br>
 
