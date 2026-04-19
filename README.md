@@ -14,11 +14,10 @@
 
 <br>
 
-<!-- 🏢 LOGO (KOTAK KEDUA, DIPERKECIL & SEIMBANG) -->
+<!-- 🏢 LOGO (KOTAK KEDUA) -->
 <table border="1" cellspacing="0" cellpadding="10">
 <tr>
 <td align="center">
-
 <img src="https://i.imgur.com/uQZzJHK.png" height="80">
 </td>
 </tr>
@@ -26,9 +25,14 @@
 
 <br>
 
-<!-- ✨ TITLE -->
-<h2><code>Clock Tower Council • Moonlit Translation • AVN Indonesia</code></h2>
-<sub>Moonlit worlds, endless routes.</sub>
+<!-- ✨ TITLE (DITEGASKAN) -->
+<h2>
+<code>Clock Tower Council • Moonlit Translation • AVN Indonesia</code>
+</h2>
+
+<p>
+<code>▶ Moonlit worlds, endless routes.</code>
+</p>
 
 </div>
 
@@ -64,7 +68,6 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
-<br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -72,13 +75,11 @@ Experienced across proprietary engines such as **HuneX**, **Kirikiri**, **Artemi
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img src="https://img.shields.io/badge/TJS-000000?style=for-the-badge&logo=javascript&logoColor=white">
 
-<br>
 
 <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
-<br>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
