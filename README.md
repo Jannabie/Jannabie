@@ -29,38 +29,39 @@
 
 <br>
 
-<!-- ORGANIZATION (UPGRADED CLEAN STYLE) -->
+<!-- ORGANIZATION -->
 <div align="center">
-
 <div style="margin-bottom:6px;">
 <span style="color:#cdd6f4; font-size:22px; letter-spacing:3px;">
 Clock Tower Council
 </span>
 </div>
-
 <div style="color:#89b4fa; margin-bottom:10px; font-size:12px; letter-spacing:2px;">
 ✦ Moonlit Translation ✦ AVN Indonesia ✦
 </div>
-
 <div style="width:120px; height:1px; background:#89b4fa; margin:0 auto 10px;"></div>
-
 <p style="margin:0;">
 <a href="https://github.com/Moonlit-Translation" style="color:#a6adc8; text-decoration:none; font-weight:500; letter-spacing:1px;">
 ▶ Moonlit worlds, endless routes.
 </a>
 </p>
-
 </div>
 
 <br>
 
-<!-- FOOTER BANNER -->
-<div align="center">
+<!-- POWERED & HELPER -->
+<table cellspacing="0" cellpadding="12" border="0">
+<tr>
+<td align="center" bgcolor="#0a1628">
+<sub><b>&nbsp;Powered &amp; Helper:</b></sub>
+<br><br>
 <img src="https://i.imgur.com/PLpnsuw.png" height="35">
-<img src="https://i.imgur.com/QuE3hY1.png " height="44">
-</div>
+&nbsp;&nbsp;
+<img src="https://i.imgur.com/QuE3hY1.png" height="44">
+</td>
+</tr>
+</table>
 
 <br>
-
 
 </div>
